@@ -1,0 +1,4 @@
+// gite yüklenmesini istemediğimiz yerleri yazacağımız dosya
+
+node_modules/
+package-lock.json
